@@ -1,5 +1,0 @@
-PyQt6
-minecraft-launcher-lib
-requests
-msal
-pyinstaller
