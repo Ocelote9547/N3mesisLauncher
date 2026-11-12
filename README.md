@@ -91,4 +91,12 @@ assets/                 Fondos para las portadas de instancias
 
 ---
 
+## 🌐 N3mesis Studio
+
+NEXO forma parte del ecosistema de aplicaciones de N3mesis Studio.
+
+🌐 Web oficial: https://ocelote9547.github.io/
+
+---
+
 © 2026 Ocelote9547 — Todos los derechos reservados.
